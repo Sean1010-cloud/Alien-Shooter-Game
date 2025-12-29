@@ -7,3 +7,10 @@ A remake of a typical alien shooter game where the player fires projectiles at e
 - Press the spacebar to shoot missiles upwards towards spawning enemy ships.
 - Earn points when an enemy ship is successfully destroyed
 - Lose a life if an enemy ship collides with your ship (from total of 3 lives)
+
+# Process 
+I started by creating the individual classes for each of the different objects. They included things like the player ship, enemy ship, missiles, background, etc. Each of the classes contained constructors to create each individual piece, as well as methods for their movement and uploading the image for them. 
+
+I then created the screen class that would contain the layout of the game. In this class, I created things like the background, the player ship,  each of the enemy ships, and a scoring system for each enemy ship destroyed. I also included a menu that appears when the class is run, which uses ActionListener to function. One of the buttons there was the instructions, where each of the objects and their purpose were outlined to the player. The other button was the play button, which ran the game when clicked. After the game was completed (player destroys all ships or loses all lives), the game stops and the score that the player achiveved is displayed on the screen. 
+
+I then created another class that used the screen class to run the game with music in the background.
