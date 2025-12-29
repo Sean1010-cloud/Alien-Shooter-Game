@@ -14,3 +14,23 @@ I started by creating the individual classes for each of the different objects. 
 I then created the screen class that would contain the layout of the game. In this class, I created things like the background, the player ship,  each of the enemy ships, and a scoring system for each enemy ship destroyed. I also included a menu that appears when the class is run, which uses ActionListener to function. One of the buttons there was the instructions, where each of the objects and their purpose were outlined to the player. The other button was the play button, which ran the game when clicked. After the game was completed (player destroys all ships or loses all lives), the game stops and the score that the player achiveved is displayed on the screen. 
 
 I then created another class that used the screen class to run the game with music in the background.
+
+# What I Learned
+I learned a lot during this project, which further developed my Java skills and overall programming logic. 
+
+# ActionListener and EventListener 
+I found out about the user of ActionListener and EventListener, which allowed me to code the game based on the inputs from the user 
+
+# JFrame 
+I learned how to use JFrame to create the layout for the window where the game appeared, as well as positioning the different objects on the screen 
+
+# Overall Growth
+Every part of this project allowed me to improve my coding skills. I was able to learn new imports like ActionListener, using JFrame, etc. I came across many issues in this project, and making changes followed by testing allowed me to develop my problem solving skills. These improvements will allow me to make fewer mistakes in future works.
+
+# Improvements
+- Create a boss at the end
+- Have multiple types of enemies
+- Add more ablilites for the player
+- Make collision detection more accurate
+- Add individual directional movement for enemy ships
+  
