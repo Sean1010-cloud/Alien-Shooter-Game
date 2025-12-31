@@ -19,10 +19,13 @@ I then created another class that used the screen class to run the game with mus
 I learned a lot during this project, which further developed my Java skills and overall programming logic. 
 
 # ActionListener and EventListener 
-I found out about the user of ActionListener and EventListener, which allowed me to code the game based on the inputs from the user 
+I found out about the user of ActionListener and EventListener, which allowed me to code the game based on inputs from the user.
 
 # JFrame 
-I learned how to use JFrame to create the layout for the window where the game appeared, as well as positioning the different objects on the screen 
+I learned how to use JFrame to create the layout for the window where the game appeared, as well as positioning the different objects on the screen.
+
+# Image Creation
+I learned how to add images from my files to be used by the Java software, to be included in the game.
 
 # Overall Growth
 Every part of this project allowed me to improve my coding skills. I was able to learn new imports like ActionListener, using JFrame, etc. I came across many issues in this project, and making changes followed by testing allowed me to develop my problem solving skills. These improvements will allow me to make fewer mistakes in future works.
