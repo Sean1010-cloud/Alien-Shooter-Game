@@ -33,8 +33,8 @@ Every part of this project allowed me to improve my coding skills. I was able to
 # Improvements
 - Create a boss at the end
 - Have multiple types of enemies
-- Add more ablilites for the player
+- Add more ablilites for the player/enemy ships
 - Make collision detection more accurate
 - Add individual directional movement for enemy ships
-  
-# Video Demo
+- Add levels
+- Simulate background movement to display immersiveness better 
